@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #D7E5F5;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    margin: 0;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: 10px;
+    border: 1px solid black;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #e2e2e2;
+  }
+  
+  tbody tr:nth-child(odd) {
+    background-color: #95bbde;
+  }
+
+  
